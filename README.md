@@ -1,3 +1,5 @@
 # git_demo
-this is my first repo
-author : prajwal
+this is my first repo.
+<br>
+author : prajwal.
+
